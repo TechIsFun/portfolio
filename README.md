@@ -14,5 +14,3 @@ A list of my works, talks and pubblications.
 - 20/03/2017, *Reactive programming con RxJava* ([Video](https://www.youtube.com/watch?v=PYRhpqa-XLw))
 
 ## Projects
-
-### A clean(er) architecture
