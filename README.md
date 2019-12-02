@@ -30,6 +30,8 @@ A list of my works, talks and pubblications.
 
 ## Projects
 
+- [Android Sample App](https://github.com/TechIsFun/android-sample-app)
+
 - [OneLineCalendar for Android](https://github.com/TechIsFun/OneLineCalendar)
 
 - [AndroidTopSheet for Android](https://github.com/TechIsFun/AndroidTopSheet)
