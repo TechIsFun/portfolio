@@ -8,7 +8,7 @@ A list of my works, talks and pubblications.
 - [Twitter](https://twitter.com/TechIsFun)
 - [LinkedIn](https://www.linkedin.com/in/andreamaglie/)
 - [GitHub](https://github.com/TechIsFun)
-- [SlideShare](https://www.slideshare.net/AndreaMaglie)
+- [SlideShare](https://www.slideshare.net/AndreaMaglie/presentations)
 
 ---
 
