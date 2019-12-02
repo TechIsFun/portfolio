@@ -1,7 +1,7 @@
 # Portfolio
 A list of my works, talks and pubblications.
 
-## Pubblications
+## Publications
 
 - *Reactive Java Programming* Book ([Amazon](https://www.amazon.com/Reactive-Java-Programming-Andrea-Maglie/dp/1484214293/ref=sr_1_1?keywords=andrea+maglie&qid=1575112130&sr=8-1), [Apress](https://www.apress.com/gp/book/9781484214299))
 
