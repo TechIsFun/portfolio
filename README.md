@@ -3,11 +3,13 @@ A list of my works, talks and pubblications.
 
 
 
-## Profiles
+## Links
 
+- [Website](https://www.andreamaglie.com/)
 - [Twitter](https://twitter.com/TechIsFun)
 - [LinkedIn](https://www.linkedin.com/in/andreamaglie/)
 - [GitHub](https://github.com/TechIsFun)
+- [Medium](https://medium.com/@TechIsFun)
 - [SlideShare](https://www.slideshare.net/AndreaMaglie/presentations)
 
 
