@@ -1,5 +1,5 @@
 # Portfolio
-A list of my works, talks and pubblications.
+A list of my projects, talks and pubblications.
 
 
 
@@ -30,7 +30,7 @@ A list of my works, talks and pubblications.
 
 
 
-## Projects
+## Open Source Projects
 
 - [Android Sample App](https://github.com/TechIsFun/android-sample-app)
 
@@ -56,6 +56,23 @@ A list of my works, talks and pubblications.
 
 - [audio-haptic-surface-friction](https://github.com/TechIsFun/audio-haptic-surface-friction)
 
-  
 
-  
+## Published apps and past contributions
+
+- [Loopo Android Audio Player](https://play.google.com/store/apps/details?id=com.andreamaglie.android.abplayer&hl=it)
+
+- [Setlist Android App](https://play.google.com/store/apps/details?id=it.andreamaglie.android.setlistManager&hl=it)
+
+- [Musement Action for Google Assistant](https://assistant.google.com/services/a/uid/000000342910edd7?hl=it-IT)
+
+- [Musement Skill for Alexa](https://www.amazon.it/Musement-S-P-A/dp/B07HMLWGHV)
+
+- [Musement Android App](https://play.google.com/store/apps/details?id=com.musement.android&hl=it)
+
+- [Texa CARe Android App](https://play.google.com/store/apps/details?id=com.texa.care&hl=it)
+
+- MiSiedo Android App (*discontinued*)
+
+
+
+
