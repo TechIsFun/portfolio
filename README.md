@@ -19,6 +19,18 @@ A list of my projects, talks and pubblications.
 - *Reactive Java Programming* Book ([Amazon](https://www.amazon.com/Reactive-Java-Programming-Andrea-Maglie/dp/1484214293/ref=sr_1_1?keywords=andrea+maglie&qid=1575112130&sr=8-1), [Apress](https://www.apress.com/gp/book/9781484214299))
 
 
+## Community
+
+### GDG Venezia
+  - [Twitter](https://twitter.com/gdgvenezia?s=20)
+  - [Facebook](https://www.facebook.com/gdgvenezia/)
+  - [Meetup](https://www.meetup.com/it-IT/GDG-Venezia/)
+  - [YouTube](https://www.youtube.com/channel/UCnXHsg8plcHc_NuCETV2k6Q)
+
+### Main events
+  - [DevFest Veneto 2019](https://devfestvenice.com/)
+  - [DevFest Veneto 2018](https://gdg-venezia.github.io/devfest-veneto-18/)
+
 
 ## Talks
 
