@@ -37,7 +37,7 @@ A list of my projects, talks and pubblications.
 - 29/11/2019, *A clean(er) architecture* @ [Milan Kotlin Community Conf](https://milan.kotlincommunityconf.com/) ([Slides](https://www.slideshare.net/AndreaMaglie/a-cleaner-architecture))
 - 30/10/2019, *Kotlin Multiplatform | Kotlin/Everywhere Venezia 2019* @ [BeFamily](https://www.befamily.it/) ([Video](https://www.youtube.com/watch?v=gTrdMiGs92M), [Meetup](https://www.meetup.com/it-IT/GDG-Venezia/events/265665209/))
 - 14/06/2019, *Everyone can build a REST service with Kotlin* @ [Milan Kotlin Community Conf](https://milan.kotlincommunityconf.com/) ([Video](https://vimeo.com/showcase/5286228/video/279944670), [Slides](https://www.slideshare.net/AndreaMaglie/everyone-can-build-a-rest-service-with-kotlin))
-- 16/10/2018, *Build an app for Google Assistant with Dialogflow* ([Slides](Build an app for Google Assistant with Dialogflow))
+- 16/10/2018, *Build an app for Google Assistant with Dialogflow* [Slides](https://www.slideshare.net/AndreaMaglie/build-an-app-for-google-assistant-with-dialogflow)
 - 20/03/2017, *Reactive programming con RxJava* ([Video](https://www.youtube.com/watch?v=PYRhpqa-XLw))
 
 
