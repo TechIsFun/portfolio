@@ -5,7 +5,7 @@ A list of my projects, talks and pubblications.
 
 ## Links
 
-- [Website](https://www.andreamaglie.com/)
+- [My Website](https://www.andreamaglie.com/)
 - [Twitter](https://twitter.com/TechIsFun)
 - [LinkedIn](https://www.linkedin.com/in/andreamaglie/)
 - [GitHub](https://github.com/TechIsFun)
